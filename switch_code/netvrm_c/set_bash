@@ -1,0 +1,1 @@
+export LD_LIBRARY_PATH=$SDE_INSTALL/lib/:$SDE_INSTALL/lib/tofinopd/netvrm_wan/
